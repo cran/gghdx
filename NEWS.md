@@ -1,3 +1,12 @@
+# gghdx 0.1.2
+
+* Use anonymous function format `function()` in `hdx_display_pal()`.
+* Add `gghdx_reset()` and `ggplot2_geom_defaults()` functions to allow user to
+remove all defaults set by `gghdx()`.
+* Improve `load_source_sans_3()` so local installations of Source Sans 3 are
+used when an internet connection is unavailable.
+* Update tests to not break with release of `{ggplot2}` 3.5.0.
+
 # gghdx 0.1.1
 
 * Switched base font family from Source Sans Pro to Source Sans 3.
