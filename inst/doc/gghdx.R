@@ -72,11 +72,7 @@ p_blue <- ggplot(
     fill = hdx_hex("sapphire-hdx") # use sapphire for fill
   ) +
   scale_y_continuous_hdx(
-    labels = scales::label_number(
-      accuracy = 1,
-      scale = 1 / 1000000,
-      suffix = "M"
-    )
+    labels = label_number_hdx()
   ) +
   scale_x_date(
     date_breaks = "1 month",
