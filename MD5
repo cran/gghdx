@@ -1,6 +1,6 @@
-5654697aecfb6ed55ee5e55dd61d5fea *DESCRIPTION
-207893cda46552d6952fd33017461abc *NAMESPACE
-084fd6a8309e1649cb9a3a251a184663 *NEWS.md
+2a01cdfc99d433e9ae9db18c11cf60dd *DESCRIPTION
+0e95e5683c98e7c3d66856f6dd722ed5 *NAMESPACE
+7c70a196970da0e0857ef95f35a0367f *NEWS.md
 293391fdab226ddb8b7808394008ad29 *R/data.R
 800ea69815f3b70e52cea8c0fb80d256 *R/geom_text_hdx.R
 f03767beee5b237455865e3c9e93b423 *R/gghdx.R
@@ -8,7 +8,7 @@ f03767beee5b237455865e3c9e93b423 *R/gghdx.R
 424241fe57f69149747e400ed3846982 *R/hdx_display_pal.R
 7fccbd0f94da926d0e8c1d8c8722deb4 *R/hdx_geom_defaults.R
 38976f095f6ae16e1466fdd451f5f7de *R/hdx_pal.R
-9d45425b4793300792b8e469fb0f1d03 *R/label_number_hdx.R
+83632e25a9b70eb0ce1dda0f9884f245 *R/label_number_hdx.R
 0fb60fec41405759e2f8e9308954d4e4 *R/load_source_sans_3.R
 9141af1f7cae3b7a52c34a24dd275453 *R/scale_hdx.R
 461a3e18fe8de3b5fbc674bf9a9d8974 *R/scale_y_hdx.R
@@ -16,12 +16,12 @@ a0b8d101a4242bcd90b6b17b27ac68f0 *R/theme_hdx.R
 79320b0a9d9029dac27b91168bc5bc6a *R/utils-imports.R
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
 5fadc855f0b1fbd1a5549ffb941c447e *R/utils-scale-name.R
-4513c186efad7a42135377fd94e670e9 *README.md
-dfc158dca9bf56a7b5be3b15e42be037 *build/vignette.rds
+42664aa773d497663782b1fbed462f01 *README.md
+f9a53453c9471b1956d6104d85dcfb3b *build/vignette.rds
 946429a61e2d221a3ea82cbc30b3d5a0 *data/df_covid.rda
 1e16d2a3b4ec2b82344cc54d58b9aedf *data/hdx_color_list.rda
 2bc4d9863a408c8383a4e2aaa89fd672 *inst/WORDLIST
-90ce5a1410887e6be449b0ed4a31d84f *inst/doc/gghdx.R
+6bcab92f2c73d0df0ca830af2afe26cf *inst/doc/gghdx.R
 b4f2cc01bd45c4a1667e34ccee646f95 *inst/doc/gghdx.Rmd
 e717ed6bd380545f8716ee951b89fa8a *inst/doc/gghdx.html
 9678a8eb8a1a5a7a281247b6a070b664 *man/df_covid.Rd
@@ -39,7 +39,6 @@ d3e26718ef8102d40c5f50c8a48de27f *man/figures/logo-hdx.png
 ed80cf49adff6cb01ca1ea7bb84f45df *man/figures/logo-hdx.svg
 79f780f881778b60d12257fd1307a494 *man/figures/logo.png
 17ced151af5d89f73432cdfe7ef6ead9 *man/figures/logo.svg
-5577e36f78b5fa565f5c8f6aa70cb4f3 *man/format_number_hdx.Rd
 09c2c01d4f51903276eb4800e617602b *man/geom_text_family.Rd
 7d1f7bf1cdad5a15ef49a7ccf99826da *man/gghdx.Rd
 b557947b7a3a9cfa0cf8886d918844d3 *man/ggplot2_geom_defaults.Rd
@@ -47,8 +46,8 @@ b557947b7a3a9cfa0cf8886d918844d3 *man/ggplot2_geom_defaults.Rd
 1be029b5cdb515ab2402d979eebf64bd *man/hdx_color_list.Rd
 fa716581a46b2ba297f1a53f1c972e01 *man/hdx_display_pal.Rd
 aff0f1a926ff2489d29ca9011cfd5e29 *man/hdx_geom_defaults.Rd
-4d674a708aa0eb7d2374681409993da4 *man/label_number_hdx.Rd
 b2a16f380b094f442578134262d20af0 *man/load_source_sans_3.Rd
+f69ee838d92ec3008d5f7e168a4075a3 *man/number_hdx.Rd
 aff196426c0cace62d484fb42e187cf3 *man/pal_general.Rd
 8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
 209c54add61489a89b172b746aaac96d *man/scale_hdx.Rd
